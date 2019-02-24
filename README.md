@@ -25,10 +25,18 @@ install dependencies for react
 $ npm i
 ```
 
+migrate
 ```sh
 $ cd stock
 $ python manage.py makemigration
 $ python manage.py migrate
+```
+
+setup frond end
+
+```sh
+$ cd frontend
+$ webpack
 ```
 
 run the program
