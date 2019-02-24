@@ -20,20 +20,19 @@ install python package
 $ pip install -r requirements.txt
 ```
 
-install dependencies for react
-```sh
-$ npm i
-```
-
 migrate
 ```sh
-$ cd stock
 $ python manage.py makemigration
 $ python manage.py migrate
 ```
 
 setup frond end
 
+install dependencies for react
+```sh
+$ cd frontend
+$ npm i
+```
 ```sh
 $ cd frontend
 $ webpack
