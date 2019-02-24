@@ -44,3 +44,5 @@ run the program
 ```sh
 $ python manage.py runserver
 ```
+
+### unit test under stock/stock_api/tests.py
