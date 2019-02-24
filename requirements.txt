@@ -1,0 +1,8 @@
+django==2.1.7
+djangorestframework==3.8.2
+coverage==4.5.1
+django-cors-headers==2.4.0
+django-webpack-loader==0.6.0
+django-rest-auth
+django-allauth
+pytest
