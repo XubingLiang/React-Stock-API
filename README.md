@@ -22,7 +22,8 @@ $ pip install -r requirements.txt
 
 migrate
 ```sh
-$ python manage.py makemigration
+$ cd stock
+$ python manage.py makemigrations stock_api
 $ python manage.py migrate
 ```
 
@@ -38,6 +39,7 @@ $ cd frontend
 $ webpack
 ```
 
+back to stock
 run the program
 ```sh
 $ python manage.py runserver
