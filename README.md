@@ -1,4 +1,4 @@
-# Qwilr_stock
+# React Stock API
 Prerequisite:
 - NodeJS
 - Python 3
